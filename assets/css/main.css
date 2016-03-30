@@ -2722,7 +2722,7 @@
 					max-height: 0;
 					line-height: 1.5;
 					margin-top: 0.35em;
-					opacity: 0;
+					opacity: 0.2;
 				}
 
 					.tiles article > a .content > :last-child {
@@ -2762,7 +2762,7 @@
 
 				body:not(.is-touch) .tiles article:hover > .image:before {
 					background-color: #333333;
-					opacity: 0.0;
+					opacity: 0.2;
 				}
 
 				body:not(.is-touch) .tiles article:hover > .image:after {
@@ -2771,7 +2771,7 @@
 
 			body:not(.is-touch) .tiles article:hover .content {
 				max-height: 15em;
-				opacity: 0.0;
+				opacity: 0.2;
 			}
 
 		* + .tiles {
