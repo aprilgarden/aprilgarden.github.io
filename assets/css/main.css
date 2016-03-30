@@ -2639,7 +2639,7 @@
 					height: 100%;
 					opacity: 0.2;
 					z-index: 1;
-					opacity: 0.8;
+					opacity: 0.2;
 				}
 
 				.tiles article > .image:after {
@@ -2771,7 +2771,7 @@
 
 			body:not(.is-touch) .tiles article:hover .content {
 				max-height: 15em;
-				opacity: 1;
+				opacity: 0.3;
 			}
 
 		* + .tiles {
