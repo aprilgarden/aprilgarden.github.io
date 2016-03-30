@@ -2766,7 +2766,7 @@
 				}
 
 				body:not(.is-touch) .tiles article:hover > .image:after {
-					opacity: 0;
+					opacity: 0.2;
 				}
 
 			body:not(.is-touch) .tiles article:hover .content {
